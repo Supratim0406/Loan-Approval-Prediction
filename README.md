@@ -4,7 +4,7 @@ Banks consider numerous factors when determining an applicant's loan eligibility
 
 1. Data Preparation
 
--Collected historical loan data (approved and denied)
+*Collected historical loan data (approved and denied)
 -Cleaned and preprocessed data:
 -Handled missing values
 -Encoded categorical variables
